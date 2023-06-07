@@ -1,0 +1,1000 @@
+<REAPER_PROJECT 0.1 "6.80/win64" 1686138853
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 1696
+  ZOOM 0.59296280888385 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {D16EB99E-44B5-4E51-A9E0-959E420C6B16}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {CBF0C9CA-CE3B-49B3-8597-D34AA59A737C}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 0 ВОИН 0 0 1 R {B8900DD7-D10B-4502-98C7-6AFC8B9A41E4}
+  MARKER 2 228 ОЩУПЬ 0 0 1 R {0E36AE3E-BAAB-4DB3-8EA3-E7572CFFE321}
+  MARKER 3 448 ПРИВЕТ 0 0 1 R {CF78A3B0-DAB1-49E3-A732-29709AE24269}
+  MARKER 4 694 РЕАЛИЗМ 0 0 1 R {88B81365-4651-401F-9F63-F5006C20DA47}
+  MARKER 5 927 КУТЕРЬМА 0 0 1 R {7ED318C6-5B3C-49FC-AD02-35B81000757B}
+  MARKER 6 1179 КОСМИЧЕСКАЯ 0 0 1 R {B90EF1FA-D679-495F-9519-B6299ECE5827}
+  MARKER 7 1466 СТРЕЛЫ 0 0 1 R {79D4EDE2-A683-46F0-8B42-8D8906A1B06F}
+  <PROJBAY
+  >
+  <TRACK {FC7319B0-9BEE-414E-903A-7A449B653C3A}
+    NAME BASS_DIMA
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.8454390564555 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FC7319B0-9BEE-414E-903A-7A449B653C3A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 192
+      SNAPOFFS 0
+      LENGTH 256
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7B0F0FB7-4F91-45CF-81D3-CA2D687235E3}
+      IID 7
+      NAME bass_dima.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 192
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {35ED9315-BF02-4B8A-92D2-484027799166}
+      <SOURCE WAVE
+        FILE "bass_dima.wav"
+      >
+    >
+    <ITEM
+      POSITION 448
+      SNAPOFFS 0
+      LENGTH 992
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B231B58-9AA7-442E-A513-AE0F9CF0FF16}
+      IID 7
+      NAME bass_dima.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 448
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D8CCB069-C5D6-4875-9CFE-7D0AA8C01373}
+      <SOURCE WAVE
+        FILE "bass_dima.wav"
+      >
+    >
+  >
+  <TRACK {3CEFC623-388D-4108-B9AD-B36109129162}
+    NAME GIT_SEREGA
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.5942751695773 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3CEFC623-388D-4108-B9AD-B36109129162}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 896
+      SNAPOFFS 0
+      LENGTH 544.00479166666673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {97914EF1-09D7-4870-82D1-3DC5F559EC53}
+      IID 8
+      NAME cut_kos_serega.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 896
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F45F5ABE-BB85-4260-8DE0-72286A02D86D}
+      <SOURCE WAVE
+        FILE "cut_kos_serega.wav"
+      >
+    >
+    <ITEM
+      POSITION 1501
+      SNAPOFFS 0
+      LENGTH 33
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B6D805DB-FC98-42BC-B822-0BF65352C5EC}
+      IID 53
+      NAME "Strely (Rendered)_stems-009.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 29
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {426BE442-4935-4437-A896-601F310FF630}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-009.wav"
+      >
+    >
+    <ITEM
+      POSITION 1534
+      SNAPOFFS 0
+      LENGTH 123
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {03D32CF2-DB5B-45D1-BF29-05752988B9E6}
+      IID 47
+      NAME "Strely (Rendered)_stems-005.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 62
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8ECD3663-D450-4C30-BCD2-1AA5CBCEED57}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-005.wav"
+      >
+    >
+    <ITEM
+      POSITION 1657
+      SNAPOFFS 0
+      LENGTH 50
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {39AAC5C4-BE05-4ED6-A7D3-B817BAF107C7}
+      IID 31
+      NAME "Strely (Rendered)_stems-002.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 185
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F63ADC4-1CD8-4FBB-AC1A-E2B760B539AB}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-002.wav"
+      >
+    >
+    <ITEM
+      POSITION 1707
+      SNAPOFFS 0
+      LENGTH 56.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {33CED18B-F2A4-42ED-BA0A-D264A71F4E00}
+      IID 47
+      NAME "Strely (Rendered)_stems-005.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 235
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D98816A-AEB7-49B0-A008-A81E16A2DC90}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-005.wav"
+      >
+    >
+  >
+  <TRACK {5C23FD1B-D1E3-4EC0-AB41-29D45B3B448F}
+    NAME DOUBLE_GIT
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.45583759840005 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5C23FD1B-D1E3-4EC0-AB41-29D45B3B448F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1472
+      SNAPOFFS 0
+      LENGTH 201
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F14A3076-3F86-45F9-8DF8-9D3709766929}
+      IID 50
+      NAME "Strely (Rendered)_stems-006.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4FE5A6EB-78E2-46EA-9501-CC4D98EC5E16}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-006.wav"
+      >
+    >
+    <ITEM
+      POSITION 1673
+      SNAPOFFS 0
+      LENGTH 90.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E5CE6E69-4902-4DB3-ADCF-4FE486925614}
+      IID 51
+      NAME "Strely (Rendered)_stems-007.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 201
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9EDF7BE0-3638-4024-9CAE-B44FD0F4AD08}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-007.wav"
+      >
+    >
+  >
+  <TRACK {3601FD55-5CC0-4246-A30E-E1E7193E9F3C}
+    NAME METRONOME
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.22653103614921 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3601FD55-5CC0-4246-A30E-E1E7193E9F3C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1440
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {91EF14DA-4873-498C-8C2C-B5377FDA5856}
+      IID 9
+      NAME metr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29F33620-7C2D-47FF-B128-3CD5F70F74E3}
+      <SOURCE WAVE
+        FILE "metr.wav"
+      >
+    >
+    <ITEM
+      POSITION 1467
+      SNAPOFFS 0
+      LENGTH 295.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F54635D-6FD1-4611-8D56-DB15DF7E4E12}
+      IID 29
+      NAME "Click source render 001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 295.00000000017053
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFB552A5-9C0F-4677-8AB8-094F9D3E225B}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Click source render 001.wav"
+      >
+    >
+  >
+  <TRACK {A0A0A878-8139-4A71-9010-A75D99078F51}
+    NAME DRUMS_NADY
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A0A0A878-8139-4A71-9010-A75D99078F51}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1472
+      SNAPOFFS 0
+      LENGTH 291.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7F4C01C6-EC6B-498E-B2C6-85579ED5494B}
+      IID 32
+      NAME "Strely (Rendered)_stems-003.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0C3C092-E72C-448C-B212-A4448D1303E2}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-003.wav"
+      >
+    >
+  >
+  <TRACK {E94348D5-11AE-4B0D-9891-A87EF006652E}
+    NAME SYNTH
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.27991910429543 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 78 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E94348D5-11AE-4B0D-9891-A87EF006652E}
+    PERF 0
+    MIDIOUT -32
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 228
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {410751E4-24C8-4AF0-AC06-2E9E934AD8F4}
+      IID 12
+      NAME voin.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15337B10-466E-474D-BD6E-8825329D7AD9}
+      <SOURCE WAVE
+        FILE "voin.wav"
+      >
+    >
+    <ITEM
+      POSITION 912
+      SNAPOFFS 0
+      LENGTH 272
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F92B2291-1159-4DE4-84BC-94621F8717FC}
+      IID 11
+      NAME synth_kut.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 912
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60A319E2-FE62-435D-9F21-E3ACEFB9E8C7}
+      <SOURCE WAVE
+        FILE "synth_kut.wav"
+      >
+    >
+    <ITEM
+      POSITION 1184
+      SNAPOFFS 0
+      LENGTH 256
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1337915F-76D3-4FE5-943E-26765B8DA891}
+      IID 10
+      NAME synth_kos.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1184
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D7531DF2-3008-4913-89A2-05455671D5BB}
+      <SOURCE WAVE
+        FILE "synth_kos.wav"
+      >
+    >
+    <ITEM
+      POSITION 1472
+      SNAPOFFS 0
+      LENGTH 291.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9AEA4289-048E-4762-9F59-E0C0A87BD6C6}
+      IID 30
+      NAME "Strely (Rendered)_stems-001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D490CE8-124B-4399-AB2E-A7B6F2C2C307}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-001.wav"
+      >
+    >
+  >
+  <TRACK {96587B02-AA64-4FB0-A0F3-7EC97B22FF63}
+    NAME VOCAL_EGOR
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 89 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {96587B02-AA64-4FB0-A0F3-7EC97B22FF63}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 244
+      SNAPOFFS 0
+      LENGTH 202.77108197009068
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {331DBDAE-8804-4151-9BCB-D438D32B7056}
+      IID 19
+      NAME vocal_pitch_egor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.67191802990931
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65E705C3-7FDB-4E06-B1A8-A2BF046872A1}
+      <SOURCE WAVE
+        FILE "vocal_pitch_egor.wav"
+      >
+    >
+    <ITEM
+      POSITION 696.5
+      SNAPOFFS 0
+      LENGTH 228.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A67CDDE6-A02F-401A-A7F7-52AC568EAE43}
+      IID 23
+      NAME realism_egor.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2B8245A-2505-4562-933D-0A0340C15346}
+      <SOURCE WAVE
+        FILE "realism_egor.wav"
+      >
+    >
+    <ITEM
+      POSITION 926
+      SNAPOFFS 0
+      LENGTH 256
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {267A2D05-F029-4BBF-9145-5B34AABDF14C}
+      IID 4
+      NAME vocal_cut_kos.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.15369412620396
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B339DE8B-25F5-4411-ACBF-7D523BA3A0E7}
+      <SOURCE WAVE
+        FILE "vocal_cut_kos.wav"
+      >
+    >
+    <ITEM
+      POSITION 1226.5
+      SNAPOFFS 0
+      LENGTH 173.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B5A90204-35B5-4CDF-B5E6-74AFD684D476}
+      IID 4
+      NAME vocal_cut_kos.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 304.51520816234131
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBF0897E-83C8-4B0A-9821-90D2C9A51021}
+      <SOURCE WAVE
+        FILE "vocal_cut_kos.wav"
+      >
+    >
+    <ITEM
+      POSITION 1472
+      SNAPOFFS 0
+      LENGTH 108
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC84A9F3-C375-4C55-8E06-E53E11B6EABA}
+      IID 58
+      NAME "Strely (Rendered)_stems-010.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B28E2FF2-5C34-44F4-9E90-4838DB9788E0}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-010.wav"
+      >
+    >
+    <ITEM
+      POSITION 1580
+      SNAPOFFS 0
+      LENGTH 80
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80FA09BB-0AD6-4054-A147-2328E475866F}
+      IID 59
+      NAME "Strely (Rendered)_stems-011.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 108
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15C64410-4F23-4FDA-A466-AE0F310F381F}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-011.wav"
+      >
+    >
+    <ITEM
+      POSITION 1660
+      SNAPOFFS 0
+      LENGTH 103.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {17CF880D-F999-424E-81E0-AE896D4B047D}
+      IID 58
+      NAME "Strely (Rendered)_stems-010.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 188
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B22A4A34-57D8-4B61-85B3-7757BBF49ED8}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-010.wav"
+      >
+    >
+  >
+  <TRACK {4B0B695D-C116-48BD-B5D1-D60E7A748291}
+    NAME VOCAL_NASTY
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4B0B695D-C116-48BD-B5D1-D60E7A748291}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 244
+      SNAPOFFS 0
+      LENGTH 203
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A57574BD-1505-47FC-99BD-4EFEF8730687}
+      IID 20
+      NAME na_oshup_nastya.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.65083149134117
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30829050-86B9-44A1-9283-A259A9C4FE6A}
+      <SOURCE WAVE
+        FILE "na_oshup_nastya.wav"
+      >
+    >
+    <ITEM
+      POSITION 696.5
+      SNAPOFFS 0
+      LENGTH 228.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4ED5E701-0CD6-4439-99F9-D6A5942E012A}
+      IID 24
+      NAME realism_nastya.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4FC8DB61-93E1-4FC7-BC4A-ED67867E4DB4}
+      <SOURCE WAVE
+        FILE "realism_nastya.wav"
+      >
+    >
+    <ITEM
+      POSITION 1228
+      SNAPOFFS 0
+      LENGTH 172
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      GROUP 3
+      IGUID {68E29756-17CD-48DE-BCA0-B0F1EC47B5F7}
+      IID 18
+      NAME kosatki_nastya.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 45.57937710631631
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91C457B3-7FB0-42E2-A260-EC99E87DE3AD}
+      <SOURCE WAVE
+        FILE "kosatki_nastya.wav"
+      >
+    >
+  >
+  <TRACK {DF1761AD-6FFC-4438-A7AC-3C42816EB105}
+    NAME GIT_MAX
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.37438658028591 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DF1761AD-6FFC-4438-A7AC-3C42816EB105}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1472
+      SNAPOFFS 0
+      LENGTH 59
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C1536553-2FE9-4FD7-847C-A862D28B9F50}
+      IID 31
+      NAME "Strely (Rendered)_stems-002.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E67717C-C429-4C36-A6AC-9935CCBB86A2}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-002.wav"
+      >
+    >
+    <ITEM
+      POSITION 1531
+      SNAPOFFS 0
+      LENGTH 49
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7D966FEE-E2E9-46FD-9D2A-58756F4679D7}
+      IID 33
+      NAME "Strely (Rendered)_stems-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 59
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9E6FBA3-3854-47B3-871D-8715D393A70B}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1580
+      SNAPOFFS 0
+      LENGTH 28
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {29CB86A7-6C8B-4572-8CCF-94CEB8662A49}
+      IID 31
+      NAME "Strely (Rendered)_stems-002.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 108
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F93DEDC-E6C9-4EDD-A16B-69BC66D5B5B4}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-002.wav"
+      >
+    >
+    <ITEM
+      POSITION 1608
+      SNAPOFFS 0
+      LENGTH 53
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1BDFEF2D-D38C-4A39-B6B8-DB30FBC9698F}
+      IID 33
+      NAME "Strely (Rendered)_stems-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 136
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C92ECA6-0048-48D0-91ED-0D7BCF0DEFB5}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1707
+      SNAPOFFS 0
+      LENGTH 56.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {689A85E6-C0F7-411C-847A-A7F78E93E047}
+      IID 33
+      NAME "Strely (Rendered)_stems-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 235
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07045913-EC92-4E4D-ADB1-259D7173C5CA}
+      <SOURCE WAVE
+        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-004.wav"
+      >
+    >
+  >
+>
