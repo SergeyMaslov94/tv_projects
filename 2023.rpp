@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.80/win64" 1686138853
+<REAPER_PROJECT 0.1 "6.80/win64" 1686741298
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 1696
-  ZOOM 0.59296280888385 0 0
-  VZOOMEX 6 0
+  CURSOR 1756
+  ZOOM 3.27605841196337 4890 0
+  VZOOMEX 6 178
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -30,11 +30,10 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_FILE "C:\Users\MaslovSO\Desktop\2023.mp3"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
-  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RANGE 2 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
@@ -46,7 +45,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
-    ZXZhdxgAAQ==
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -60,8 +59,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 1466 1776
+  SELECTION2 1466 1776
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -103,7 +102,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.8454390564555 0 -1 -1 1
+    VOLPAN 0.04666448948961 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -171,7 +170,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.5942751695773 0 -1 -1 1
+    VOLPAN 0.02703758752865 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -181,7 +180,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 95 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -190,9 +189,53 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 896
+      POSITION 227.46484922134189
       SNAPOFFS 0
-      LENGTH 544.00479166666673
+      LENGTH 221.17114583333293
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE327440-B832-4B98-BA6C-C132C38C5D7F}
+      IID 91
+      NAME pitch_serega.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A88B234B-6CE7-49CF-A02E-50E885F68ED8}
+      <SOURCE WAVE
+        FILE "pitch_serega.wav"
+      >
+    >
+    <ITEM
+      POSITION 696.47075835210092
+      SNAPOFFS 0
+      LENGTH 230.7428541666668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9CE22F10-9B9C-4F17-BFEE-3F4ECFA41A5E}
+      IID 92
+      NAME realism_serega.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC81FED4-DD62-4A73-B097-F80A85CFAA26}
+      <SOURCE WAVE
+        FILE "realism_serega.wav"
+      >
+    >
+    <ITEM
+      POSITION 928
+      SNAPOFFS 0
+      LENGTH 512.00479166666673
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -203,7 +246,7 @@
       IID 8
       NAME cut_kos_serega.wav
       VOLPAN 1 0 1 -1
-      SOFFS 896
+      SOFFS 928
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {F45F5ABE-BB85-4260-8DE0-72286A02D86D}
@@ -230,7 +273,7 @@
       CHANMODE 0
       GUID {426BE442-4935-4437-A896-601F310FF630}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-009.wav"
+        FILE "Strely (Rendered)_stems-009.wav"
       >
     >
     <ITEM
@@ -252,7 +295,7 @@
       CHANMODE 0
       GUID {8ECD3663-D450-4C30-BCD2-1AA5CBCEED57}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-005.wav"
+        FILE "Strely (Rendered)_stems-005.wav"
       >
     >
     <ITEM
@@ -274,7 +317,7 @@
       CHANMODE 0
       GUID {9F63ADC4-1CD8-4FBB-AC1A-E2B760B539AB}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-002.wav"
+        FILE "Strely (Rendered)_stems-002.wav"
       >
     >
     <ITEM
@@ -296,7 +339,7 @@
       CHANMODE 0
       GUID {7D98816A-AEB7-49B0-A008-A81E16A2DC90}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-005.wav"
+        FILE "Strely (Rendered)_stems-005.wav"
       >
     >
   >
@@ -305,14 +348,14 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.45583759840005 0 -1 -1 1
+    VOLPAN 0.02516021546093 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -342,7 +385,7 @@
       CHANMODE 0
       GUID {4FE5A6EB-78E2-46EA-9501-CC4D98EC5E16}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-006.wav"
+        FILE "Strely (Rendered)_stems-006.wav"
       >
     >
     <ITEM
@@ -364,7 +407,7 @@
       CHANMODE 0
       GUID {9EDF7BE0-3638-4024-9CAE-B44FD0F4AD08}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-007.wav"
+        FILE "Strely (Rendered)_stems-007.wav"
       >
     >
   >
@@ -373,14 +416,14 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.22653103614921 0 -1 -1 1
+    VOLPAN 1.11583089096271 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -416,23 +459,23 @@
     <ITEM
       POSITION 1467
       SNAPOFFS 0
-      LENGTH 295.2
+      LENGTH 309
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {8F54635D-6FD1-4611-8D56-DB15DF7E4E12}
-      IID 29
-      NAME "Click source render 001.wav"
+      SEL 1
+      IGUID {BA9F59F0-BF15-44AC-898F-28F148588957}
+      IID 126
+      NAME metr_100_strel.mp3
       VOLPAN 1 0 1 -1
-      SOFFS 295.00000000017053
+      SOFFS 312.79302482600042
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {DFB552A5-9C0F-4677-8AB8-094F9D3E225B}
-      <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Click source render 001.wav"
+      GUID {5D9CD725-FE9E-4F8E-BE9D-86A0E4B4FF59}
+      <SOURCE MP3
+        FILE "metr_100_strel.mp3" 1
       >
     >
   >
@@ -441,7 +484,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 0.05519556866139 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -478,7 +521,7 @@
       CHANMODE 0
       GUID {F0C3C092-E72C-448C-B212-A4448D1303E2}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-003.wav"
+        FILE "Strely (Rendered)_stems-003.wav"
       >
     >
   >
@@ -487,7 +530,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.27991910429543 0 -1 -1 1
+    VOLPAN 0.01545029414077 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -590,7 +633,7 @@
       CHANMODE 0
       GUID {5D490CE8-124B-4399-AB2E-A7B6F2C2C307}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-001.wav"
+        FILE "Strely (Rendered)_stems-001.wav"
       >
     >
   >
@@ -599,7 +642,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 0.05519556866139 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -724,7 +767,7 @@
       CHANMODE 0
       GUID {B28E2FF2-5C34-44F4-9E90-4838DB9788E0}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-010.wav"
+        FILE "Strely (Rendered)_stems-010.wav"
       >
     >
     <ITEM
@@ -746,7 +789,7 @@
       CHANMODE 0
       GUID {15C64410-4F23-4FDA-A466-AE0F310F381F}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-011.wav"
+        FILE "Strely (Rendered)_stems-011.wav"
       >
     >
     <ITEM
@@ -768,7 +811,7 @@
       CHANMODE 0
       GUID {B22A4A34-57D8-4B61-85B3-7757BBF49ED8}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-010.wav"
+        FILE "Strely (Rendered)_stems-010.wav"
       >
     >
   >
@@ -777,7 +820,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 0.05519556866139 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -868,7 +911,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.37438658028591 0 -1 -1 1
+    VOLPAN 0.02440999129547 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -886,6 +929,121 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 231.35401354733048
+      SNAPOFFS 0
+      LENGTH 216.99997916666658
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7D46677F-D16F-4CDA-B0E7-A9AC9837E404}
+      IID 81
+      NAME pitch_max.mp3
+      VOLPAN 1 0 1.636274 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26A52710-CECE-44F4-AF43-18AADC53C840}
+      <SOURCE MP3
+        FILE "pitch_max.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 451.3150720373402
+      SNAPOFFS 0
+      LENGTH 233.45452083333248
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {259604DC-6B23-4072-870B-646756C21C4C}
+      IID 82
+      NAME privet_max.mp3
+      VOLPAN 1 0 1.636274 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A4DCBE82-83F2-4315-9772-B9DB9F245569}
+      <SOURCE MP3
+        FILE "privet_max.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 696.52657705760714
+      SNAPOFFS 0
+      LENGTH 230.74283333333335
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {84AB75AF-912C-45C9-BE9C-06CED3726C65}
+      IID 83
+      NAME realism_max.mp3
+      VOLPAN 1 0 1.636274 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43F465E6-012F-407A-8A99-3E60B7F08A39}
+      <SOURCE MP3
+        FILE "realism_max.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 929.78933185484868
+      SNAPOFFS 0
+      LENGTH 249.13043750000077
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3BBE821E-8CEC-49E1-946F-4E1DB2D21F86}
+      IID 84
+      NAME kuterma_max.mp3
+      VOLPAN 1 0 1.636274 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CAEB4F7A-D583-4E0F-9664-7FDD6080C8D8}
+      <SOURCE MP3
+        FILE "kuterma_max.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1183.37262949974
+      SNAPOFFS 0
+      LENGTH 222.72
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {563CB595-243F-4CE0-B9D3-DD097B5B498D}
+      IID 85
+      NAME kasatki_max.mp3
+      VOLPAN 1 0 1.636274 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59EF9621-AB01-44A7-AA53-B98CCB754AB6}
+      <SOURCE MP3
+        FILE "kasatki_max.mp3" 1
+      >
+    >
     <ITEM
       POSITION 1472
       SNAPOFFS 0
@@ -905,7 +1063,7 @@
       CHANMODE 0
       GUID {5E67717C-C429-4C36-A6AC-9935CCBB86A2}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-002.wav"
+        FILE "Strely (Rendered)_stems-002.wav"
       >
     >
     <ITEM
@@ -927,7 +1085,7 @@
       CHANMODE 0
       GUID {E9E6FBA3-3854-47B3-871D-8715D393A70B}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-004.wav"
+        FILE "Strely (Rendered)_stems-004.wav"
       >
     >
     <ITEM
@@ -949,7 +1107,7 @@
       CHANMODE 0
       GUID {9F93DEDC-E6C9-4EDD-A16B-69BC66D5B5B4}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-002.wav"
+        FILE "Strely (Rendered)_stems-002.wav"
       >
     >
     <ITEM
@@ -971,7 +1129,7 @@
       CHANMODE 0
       GUID {5C92ECA6-0048-48D0-91ED-0D7BCF0DEFB5}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-004.wav"
+        FILE "Strely (Rendered)_stems-004.wav"
       >
     >
     <ITEM
@@ -993,7 +1151,7 @@
       CHANMODE 0
       GUID {07045913-EC92-4E4D-ADB1-259D7173C5CA}
       <SOURCE WAVE
-        FILE "C:\Users\MaslovSO\Desktop\��५�3\Strely (Rendered)_stems-004.wav"
+        FILE "Strely (Rendered)_stems-004.wav"
       >
     >
   >
